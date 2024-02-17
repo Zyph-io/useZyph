@@ -1,0 +1,17 @@
+{
+  "name": "usezyph",
+  "version": "1.0.0",
+  "description": "A React hook to create Zyph.io components",
+  "main": "src/useZyph.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "statez": "github:Zyph-io/statez",
+    "usestatez": "github:Zyph-io/usestatez"
+  }
+}
