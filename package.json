@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "statez": "github:Zyph-io/statez",
+    "statez": "github:Zyph-io/statez"
+  },
+  "dependencies": {
     "usestatez": "github:Zyph-io/usestatez"
   }
 }
